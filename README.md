@@ -1,6 +1,6 @@
 # TRON Coin on Internet Computer Blockchain
 
-![TRON Token Logo](/images/tron-trx-icon3386.logowik.com.webp) <!-- Replace with your logo -->
+![TRON Token Logo](/images/logo.webp) <!-- Replace with your logo -->
 
 Welcome to the TRON Token project on the Internet Computer Blockchain! This repository contains the code for a decentralized TRON token implemented using React for the frontend and Motoko for the backend. The project provides various functionalities, including ICP authentication, faucet, balance check, and token transfers. This document will guide you through the project, its functionalities, and how to set it up for development or deployment.
 
