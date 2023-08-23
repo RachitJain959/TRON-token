@@ -4,6 +4,20 @@
 
 Welcome to the TRON Token project on the Internet Computer Blockchain! This repository contains the code for a decentralized TRON token implemented using React for the frontend and Motoko for the backend. The project provides various functionalities, including ICP authentication, faucet, balance check, and token transfers. This document will guide you through the project, its functionalities, and how to set it up for development or deployment.
 
+## Overview
+
+The TRON Token project is an innovative and decentralized platform that leverages the power of React for the frontend and Motoko for the backend. This dynamic combination allows for the creation of a cutting-edge token ecosystem that introduces a range of functionalities designed to enhance user experience and interaction.
+
+At its core, the TRON Token project introduces a novel approach to authentication through the utilization of the ICP blockchain. Users are seamlessly authenticated via this robust blockchain system, ensuring a high level of security and trust. What sets this project apart is its user-centric design, allowing users to choose their own unique user IDs. This personalized approach to access not only enhances security but also adds a layer of familiarity to the platform.
+
+A standout feature of the TRON Token project is the innovative faucet system. New users who complete the ICP blockchain authentication process are rewarded with an initial allocation of 10,000 tokens. This generous allocation empowers users to immediately engage with the TRON Token ecosystem, making their entry into the platform both exciting and rewarding.
+
+For users already within the ecosystem, the platform offers a balance check functionality. Authenticated users can easily view their TRON token balance through an intuitive and user-friendly interface provided by the frontend. This transparency ensures that users have real-time insights into their holdings, enhancing their overall engagement and experience.
+
+One of the most compelling aspects of the TRON Token project is its robust transfer functionality. Authenticated users have the ability to seamlessly transfer a specified number of tokens to other users who are also authenticated via the ICP blockchain and registered on the platform. This peer-to-peer transfer capability opens up a world of possibilities for interactions and transactions within the TRON Token ecosystem.
+
+In summary, the TRON Token project is a revolutionary undertaking that merges the power of React and Motoko to create a decentralized token ecosystem. Its feature-rich nature encompasses ICP authentication, a rewarding faucet system, balance checks, and frictionless token transfers. This comprehensive suite of functionalities ensures that users can securely and seamlessly engage with the TRON Token platform, unlocking a new realm of possibilities in the world of decentralized tokens.
+
 ## Functionalities
 
 The TRON Token project comes with the following functionalities:
@@ -125,10 +139,14 @@ For example: zdv65-7qaaa-aaaai-qibdq-cai.raw.ic0.app
 
 # Working Images of the Project
 
+### Internet Computer Authentication Page 
 ![Internet Computer Authentication Page](https://github.com/RachitJain959/TRON-token/blob/master/images/ICP-Authentication.png)
 
+### Windows Authentication Page 
 ![Windows Authentication Page](https://github.com/RachitJain959/TRON-token/blob/master/images/Windows-Authentication.png)
+### Internet Computer Page 
 
 ![Internet Computer Page](https://github.com/RachitJain959/TRON-token/blob/master/images/ICP-loader.png)
+### Website Home Page 
 
 ![Website Home](https://github.com/RachitJain959/TRON-token/blob/master/images/website.png)
